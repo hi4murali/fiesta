@@ -1,3 +1,3 @@
 char a
-second line in this
+second line in this - not a problem
 third line
